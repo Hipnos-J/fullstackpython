@@ -1,3 +1,6 @@
+Versión actualizada del contenido
+
+
 Primera versión del temario subida a repositorio”
 
 Módulo 1: Programación en Python
